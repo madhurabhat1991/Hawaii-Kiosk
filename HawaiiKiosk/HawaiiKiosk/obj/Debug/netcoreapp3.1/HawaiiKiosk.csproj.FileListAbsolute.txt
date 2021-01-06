@@ -1,0 +1,11 @@
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\bin\Debug\netcoreapp3.1\HawaiiKiosk.exe
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\bin\Debug\netcoreapp3.1\HawaiiKiosk.deps.json
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\bin\Debug\netcoreapp3.1\HawaiiKiosk.runtimeconfig.json
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\bin\Debug\netcoreapp3.1\HawaiiKiosk.runtimeconfig.dev.json
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\bin\Debug\netcoreapp3.1\HawaiiKiosk.dll
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\bin\Debug\netcoreapp3.1\HawaiiKiosk.pdb
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\obj\Debug\netcoreapp3.1\HawaiiKiosk.csprojAssemblyReference.cache
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\obj\Debug\netcoreapp3.1\HawaiiKiosk.AssemblyInfoInputs.cache
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\obj\Debug\netcoreapp3.1\HawaiiKiosk.AssemblyInfo.cs
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\obj\Debug\netcoreapp3.1\HawaiiKiosk.dll
+C:\Users\madhu\Desktop\Bhat_Madhura_1902847_Test2\HawaiiKiosk\HawaiiKiosk\obj\Debug\netcoreapp3.1\HawaiiKiosk.pdb
